@@ -3,6 +3,7 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
+ *
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
@@ -46,6 +47,7 @@ int handle_write_char(char c, char buffer[],
 /************************* WRITE NUMBER *************************/
 /**
  * write_number - Prints a string
+ *
  * @is_negative: Lista of arguments
  * @ind: char types.
  * @buffer: Buffer array to handle print
